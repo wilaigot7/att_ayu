@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "atm_ayu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "Name": "ATM ธนาคารไทยพาณิชย์", "lat": 14.3550328, "long": 100.5826692, "location": "เลข ที่ 74\/6 หมู่ 10 อ.พระนครศรีอยุธยา ต.กะมัง จังหวัดพระนครศรีอยุธยา 13000" }, "geometry": { "type": "Point", "coordinates": [ 100.5826692, 14.3550328 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "Name": "ATM K- Bank", "lat": 14.35692177, "long": 100.5829903, "location": "เทศบาลนครพระนครศรีอยุธยา อำเภอ พระนครศรีอยุธยา จังหวัดพระนครศรีอยุธยา" }, "geometry": { "type": "Point", "coordinates": [ 100.5829903, 14.35692177 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "Name": "ATM ธนาคารกรุงศรีอยุธยา", "lat": 14.35872635, "long": 100.5727397, "location": "ตำบลหัวรอ อำเภอ พระนครศรีอยุธยา จังหวัดพระนครศรีอยุธยา 13000" }, "geometry": { "type": "Point", "coordinates": [ 100.5727397, 14.35872635 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "Name": "ATM กสิกรไทย", "lat": 14.35368827, "long": 100.5750137, "location": "39 ซอย ป่าโทน 19 ตำบล ประตูชัย อำเภอ พระนครศรีอยุธยา จังหวัดพระนครศรีอยุธยา 13000" }, "geometry": { "type": "Point", "coordinates": [ 100.5750137, 14.35368827 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "Name": "ATM ธนาคารไทยพาณิชย์", "lat": 14.35364118, "long": 100.5746437, "location": "เลข ที่ 3\/21 ถนน เดชา วุ ธ อ.พระนครศรีอยุธยา ต.ประตูชัย จังหวัดพระนครศรีอยุธยา 13000" }, "geometry": { "type": "Point", "coordinates": [ 100.5746437, 14.35364118 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "Name": "เอทีเอ็มธนาคารกรุงไทย", "lat": 14.34972443, "long": 100.5628482, "location": "46\/3 ถนน ศรีสรรเพชญ์ ตำบล ประตูชัย อำเภอ พระนครศรีอยุธยา จังหวัดพระนครศรีอยุธยา 13000" }, "geometry": { "type": "Point", "coordinates": [ 100.5628482, 14.34972443 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "Name": "เอทีเอ็มธนาคารกรุงเทพ", "lat": 14.34973049, "long": 100.5629078, "location": "43 ซอย ไผ่ลิง 5 ตำบล ไผ่ลิง อำเภอ พระนครศรีอยุธยา จังหวัดพระนครศรีอยุธยา 13000" }, "geometry": { "type": "Point", "coordinates": [ 100.5629078, 14.34973049 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "atm_kan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "Name": "ATM กรุงไทย", "lat": 14.04170292, "long": 99.50513883000001, "location": "ถนน แม่น้ำแคว ตำบล บ้านใต้ อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000" }, "geometry": { "type": "Point", "coordinates": [ 99.50513883, 14.04170292 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "Name": "ATM ออมสิน?", "lat": 14.04158046, "long": 99.50514971, "location": "ถนน แม่น้ำแคว ตำบล บ้านใต้ อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000" }, "geometry": { "type": "Point", "coordinates": [ 99.50514971, 14.04158046 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "Name": "ATM ธนาคารกรุงไทย", "lat": 14.03373205, "long": 99.52417884, "location": "15 ถ. แสงชูโต ตำบล บ้านเหนือ อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000" }, "geometry": { "type": "Point", "coordinates": [ 99.52417884, 14.03373205 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "Name": "ATM TMB", "lat": 14.03374593, "long": 99.52415023, "location": "ถ. แสงชูโต ตำบล บ้านเหนือ อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000" }, "geometry": { "type": "Point", "coordinates": [ 99.52415023, 14.03374593 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "Name": "ATM ออมสิน", "lat": 14.03375423, "long": 99.52413018, "location": "ตำบล บ้านใต้ อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000" }, "geometry": { "type": "Point", "coordinates": [ 99.52413018, 14.03375423 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "Name": "ATM-ธ.ไทยพาณิชย์", "lat": 14.03350901, "long": 99.5238979, "location": "แสงชูโต อ.เมืองกาญจนบุรี ต.บ้านเหนือ กาญจนบุรี 71000" }, "geometry": { "type": "Point", "coordinates": [ 99.5238979, 14.03350901 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "Name": "ATM ธนาคารกรุงเทพ", "lat": 14.08981021, "long": 99.28010422, "location": "ตำบล สิงห์ อำเภอไทรโยค กาญจนบุรี 71150" }, "geometry": { "type": "Point", "coordinates": [ 99.28010422, 14.08981021 ] } },
+{ "type": "Feature", "properties": { "ID": 8, "Name": "ATM ธนาคารกรุงไทย?", "lat": 14.23097493, "long": 99.06374423, "location": "ถ. แสงชูโต ตำบล ท่าเสา อำเภอไทรโยค กาญจนบุรี 71150" }, "geometry": { "type": "Point", "coordinates": [ 99.06374423, 14.23097493 ] } },
+{ "type": "Feature", "properties": { "ID": 9, "Name": "ATM ธนาคารกรุงไทย?", "lat": 14.22982743, "long": 99.06442921, "location": "95 หมู่ 3 ถนนแก่งเสี้ยน ตำบล ท่าเสา อำเภอไทรโยค กาญจนบุรี 71150" }, "geometry": { "type": "Point", "coordinates": [ 99.06442921, 14.22982743 ] } }
+]
+}
